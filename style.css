@@ -1,0 +1,38 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+h1{
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(255, 0, 0);
+}
+
+.libro{
+    color: rgb(98, 126, 153);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 10px;
+}
+
+.negrita{
+    font-size: 20px;
+    font-weight: bold
+}
+
+.resaltar{
+    color: rgb(219, 18, 18);
+    background: rgb(255, 255, 255);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
